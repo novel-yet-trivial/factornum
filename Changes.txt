@@ -1,0 +1,5 @@
+V 2.2
+  Added the is_prime module
+
+V 2.0:
+  Converted original script to a module which can be imported and used
